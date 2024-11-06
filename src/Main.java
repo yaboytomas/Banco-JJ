@@ -4,12 +4,13 @@ import cuentas.Cuenta;
 
 
 
+
 public class Main {
     public static void main(String[] args) {
 
     // Instancias
-        CuentaCorriente cuentaCorriente = new CuentaCorriente(5900000);
-        CuentaAhorro cuentaAhorro = new CuentaAhorro(55000000);
+        CuentaCorriente cuentaCorriente = new CuentaCorriente(8900000);
+        CuentaAhorro cuentaAhorro = new CuentaAhorro(85000000);
 
     // Mostrar Saldo
         System.out.println();
