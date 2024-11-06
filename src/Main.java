@@ -1,5 +1,6 @@
 import cuentas.CuentaAhorro;
 import cuentas.CuentaCorriente;
+import cuentas.Cuenta;
 
 public class Main {
     public static void main(String[] args) {
