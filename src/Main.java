@@ -5,8 +5,8 @@ public class Main {
     public static void main(String[] args) {
 
     // Instancias
-        CuentaCorriente cuentaCorriente = new CuentaCorriente(700000);
-        CuentaAhorro cuentaAhorro = new CuentaAhorro(2000000);
+        CuentaCorriente cuentaCorriente = new CuentaCorriente(900000);
+        CuentaAhorro cuentaAhorro = new CuentaAhorro(25000000);
 
     // Mostrar Saldo
         System.out.println();
