@@ -19,11 +19,11 @@ public class Main {
         System.out.println();
 
     // Depositar
-        cuentaCorriente.depositar(50000);
-        cuentaAhorro.depositar(500000);
+       /* cuentaCorriente.depositar(50000);
+        cuentaAhorro.depositar(500000);*/
 
     // Retirar
-        cuentaCorriente.retirar(43);
-        cuentaAhorro.retirar(999);
+        /* cuentaCorriente.retirar(43);
+        cuentaAhorro.retirar(999); */
     }
 }
